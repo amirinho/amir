@@ -1,10 +1,10 @@
 
-  main.c
+  //main.c
 //  amirsocketC
 //
-//  Created by admin on 4.01.2022.
+//  Created by admin on 01.01.2022.
 //
-
+//Defining header libraries and port.
 
 #include <stdio.h>
 #include <stdlib.h>
